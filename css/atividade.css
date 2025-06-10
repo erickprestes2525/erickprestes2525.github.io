@@ -18,7 +18,7 @@ body {
 }
 
 header {
-    display: flex;
+   
     position: sticky;
     top: 0;
     background-color: #000000;
